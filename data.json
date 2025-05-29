@@ -1,0 +1,425 @@
+{
+    "486748": {
+        "isim": "Berk",
+        "soyisim": "Türe",
+        "sifre": "$2b$12$8ihT0eS1KHcf/hX2bpFXReCbhGu5j2eq4t2aYbBqel5Y5T2b6skpK",
+        "tuz": "$2b$12$8ihT0eS1KHcf/hX2bpFXRe",
+        "bakiye": {
+            "USD": 0,
+            "EUR": 0,
+            "vadeli_hesap": 0,
+            "vadesiz_hesap": 0,
+            "altin_hesabi": 0,
+            "bireysel_emeklilik": 0
+        }
+    },
+    "456366": {
+        "isim": "Burak",
+        "soyisim": "Yıldırım",
+        "sifre": "$2b$12$Xjn3m8/0ucTr45bm/SOzqOFOC1gZKgsTDWQPeZAo6wCcZxSXfiDla",
+        "tuz": "$2b$12$Xjn3m8/0ucTr45bm/SOzqO",
+        "bakiye": {
+            "USD": 0,
+            "EUR": 0,
+            "vadeli_hesap": 0,
+            "vadesiz_hesap": 0,
+            "altin_hesabi": 0,
+            "bireysel_emeklilik": 0
+        }
+    },
+    "980299": {
+        "isim": "Burak",
+        "soyisim": "Yıldırım",
+        "sifre": "$2b$12$kYBU2vauaqDACbQHlmutye4MzeZUwWOGxKV4LTKZrYat0g3AUiudi",
+        "tuz": "$2b$12$kYBU2vauaqDACbQHlmutye",
+        "bakiye": {
+            "USD": 0,
+            "EUR": 0,
+            "vadeli_hesap": 0,
+            "vadesiz_hesap": 0,
+            "altin_hesabi": 0,
+            "bireysel_emeklilik": 0
+        }
+    },
+    "245705": {
+        "isim": "Talisca",
+        "soyisim": "Talisca",
+        "sifre": "$2b$12$N96dxVcPTKoucU6GMmCsQOO7kSHC4i3fSMwHGpDBWAdnsGwyRv3nu",
+        "tuz": "$2b$12$N96dxVcPTKoucU6GMmCsQO",
+        "bakiye": {
+            "USD": 0,
+            "EUR": 0,
+            "vadeli_hesap": 0,
+            "vadesiz_hesap": 0,
+            "altin_hesabi": 0,
+            "bireysel_emeklilik": 0
+        }
+    },
+    "913195": {
+        "isim": "FB",
+        "soyisim": "FB",
+        "sifre": "$2b$12$aPdPaUlrJfMWo2hGPDV40.7Aydh3uOsd87AxTfwBTAlJ2VqoCs4oi",
+        "tuz": "$2b$12$aPdPaUlrJfMWo2hGPDV40.",
+        "bakiye": {
+            "USD": 0,
+            "EUR": 0,
+            "vadeli_hesap": 0,
+            "vadesiz_hesap": 0,
+            "altin_hesabi": 0,
+            "bireysel_emeklilik": 0
+        }
+    },
+    "968843": {
+        "isim": "FB",
+        "soyisim": "FB",
+        "sifre": "$2b$12$D20cN8P/M73I.u.ExD8qPu0BxQve5tgaDrITbfn9OjYseo9nob25O",
+        "tuz": "$2b$12$D20cN8P/M73I.u.ExD8qPu",
+        "bakiye": {
+            "USD": 0,
+            "EUR": 0,
+            "vadeli_hesap": 0,
+            "vadesiz_hesap": 0,
+            "altin_hesabi": 0,
+            "bireysel_emeklilik": 0
+        }
+    },
+    "740197": {
+        "isim": "TS",
+        "soyisim": "TS",
+        "sifre": "$2b$12$ck1KBosow.lY4rmQzmqCQOswXzokO.wa3vi74M4IuFWtkAWyFORGq",
+        "tuz": "$2b$12$ck1KBosow.lY4rmQzmqCQO",
+        "bakiye": {
+            "USD": 0,
+            "EUR": 0,
+            "vadeli_hesap": 0,
+            "vadesiz_hesap": 0,
+            "altin_hesabi": 0,
+            "bireysel_emeklilik": 0
+        }
+    },
+    "578926": {
+        "isim": "Bjk",
+        "soyisim": "bjk",
+        "sifre": "$2b$12$tAFJFDD0Yj4J2P5zpmI2Duthx.5WHV/j21wmCj8Q4k97ctSIUfofq",
+        "tuz": "$2b$12$tAFJFDD0Yj4J2P5zpmI2Du",
+        "bakiye": {
+            "USD": 0,
+            "EUR": 0,
+            "vadeli_hesap": 0,
+            "vadesiz_hesap": 0,
+            "altin_hesabi": 0,
+            "bireysel_emeklilik": 0
+        }
+    },
+    "322206": {
+        "isim": "Fenerbahce",
+        "soyisim": "1907",
+        "sifre": "$2b$12$CH3QVFJZ5iRbB8V3/1Vc9ezcNCEfONA20NGD/YT.QWBAdFEbwx/cm",
+        "tuz": "$2b$12$CH3QVFJZ5iRbB8V3/1Vc9e",
+        "bakiye": {
+            "USD": 0,
+            "EUR": 0,
+            "vadeli_hesap": 0,
+            "vadesiz_hesap": 0,
+            "altin_hesabi": 0,
+            "bireysel_emeklilik": 0
+        }
+    },
+    "172099": {
+        "isim": "Trabzon",
+        "soyisim": "Ortahisar",
+        "sifre": "$2b$12$wtmjBCH3ppftqgpAwd.sFO65269SB14pwfXW3Bp.knDOVXdniXZy2",
+        "tuz": "$2b$12$wtmjBCH3ppftqgpAwd.sFO",
+        "bakiye": {
+            "USD": 0,
+            "EUR": 0,
+            "vadeli_hesap": 0,
+            "vadesiz_hesap": 0,
+            "altin_hesabi": 0,
+            "bireysel_emeklilik": 0
+        }
+    },
+    "347333": {
+        "isim": "Trabzon",
+        "soyisim": "Ortahisar",
+        "sifre": "$2b$12$.7kRU4WmX/mJJ06X61mEZuL96MBlVG7Voke6DtYGG./IXpivPjXe.",
+        "tuz": "$2b$12$.7kRU4WmX/mJJ06X61mEZu",
+        "bakiye": {
+            "USD": 0,
+            "EUR": 0,
+            "vadeli_hesap": 0,
+            "vadesiz_hesap": 0,
+            "altin_hesabi": 0,
+            "bireysel_emeklilik": 0
+        }
+    },
+    "428495": {
+        "isim": "Trabzon",
+        "soyisim": "Ortahisar",
+        "sifre": "$2b$12$XbJyXDmhkAHdYoZr4L6DRe76Fw9GHN.UWYf64nOYVdzsXGCDzz106",
+        "tuz": "$2b$12$XbJyXDmhkAHdYoZr4L6DRe",
+        "bakiye": {
+            "USD": 0,
+            "EUR": 0,
+            "vadeli_hesap": 0,
+            "vadesiz_hesap": 0,
+            "altin_hesabi": 0,
+            "bireysel_emeklilik": 0
+        }
+    },
+    "414695": {
+        "isim": "Trabzon",
+        "soyisim": "Ortahisar",
+        "sifre": "$2b$12$tpafDgB0HK3zoNOJvZajTO5aYogCcaIlSilQGDB8ZYK5oxl7ofYtu",
+        "tuz": "$2b$12$tpafDgB0HK3zoNOJvZajTO",
+        "bakiye": {
+            "USD": 0,
+            "EUR": 0,
+            "vadeli_hesap": 0,
+            "vadesiz_hesap": 0,
+            "altin_hesabi": 0,
+            "bireysel_emeklilik": 0
+        }
+    },
+    "702253": {
+        "isim": "berk",
+        "soyisim": "Türe",
+        "sifre": "$2b$12$I9I5tJEw1AfLjPna/8JkxOAJCmK1nl.lbfobHdv6QZ5f0z9bLWQme",
+        "tuz": "$2b$12$I9I5tJEw1AfLjPna/8JkxO",
+        "bakiye": {
+            "USD": 0,
+            "EUR": 0,
+            "vadeli_hesap": 0,
+            "vadesiz_hesap": 0,
+            "altin_hesabi": 0,
+            "bireysel_emeklilik": 0
+        }
+    },
+    "249608": {
+        "isim": "Berk",
+        "soyisim": "Türe",
+        "sifre": "$2b$12$ii9SqjbiSF5B7Gr1h/icsewCeE8gNJslrlTb.2qq7g1rzV4Ycxxoy",
+        "tuz": "$2b$12$ii9SqjbiSF5B7Gr1h/icse",
+        "bakiye": {
+            "USD": 0,
+            "EUR": 0,
+            "vadeli_hesap": 0,
+            "vadesiz_hesap": 0,
+            "altin_hesabi": 0,
+            "bireysel_emeklilik": 0
+        }
+    },
+    "679342": {
+        "isim": "bb",
+        "soyisim": "bb",
+        "sifre": "$2b$12$FqyF1cwNgKFgR3D6u5jCi.QW3euh2p1Ml67CMspcJ46sFWPccwo1e",
+        "tuz": "$2b$12$FqyF1cwNgKFgR3D6u5jCi.",
+        "bakiye": {
+            "USD": 0,
+            "EUR": 0,
+            "vadeli_hesap": 0,
+            "vadesiz_hesap": 0,
+            "altin_hesabi": 0,
+            "bireysel_emeklilik": 0
+        }
+    },
+    "418985": {
+        "isim": "sait",
+        "soyisim": "alp",
+        "sifre": "$2b$12$Ym8I4x/ecsImQVYucCBAp.EQgyaTUAwayMObKUpiHckGqMzzvTLWG",
+        "tuz": "$2b$12$Ym8I4x/ecsImQVYucCBAp.",
+        "bakiye": {
+            "USD": 0,
+            "EUR": 0,
+            "vadeli_hesap": 0,
+            "vadesiz_hesap": 0,
+            "altin_hesabi": 0,
+            "bireysel_emeklilik": 0
+        }
+    },
+    "165188": {
+        "isim": "Berk",
+        "soyisim": "Türe",
+        "sifre": "$2b$12$7p8hnaqY/7bXFX0sDEo0j.fjtHGBj7Ye6lW9ZHlqn1HooN0eW9dXi",
+        "tuz": "$2b$12$7p8hnaqY/7bXFX0sDEo0j.",
+        "bakiye": {
+            "USD": 0,
+            "EUR": 0,
+            "vadeli_hesap": 0,
+            "vadesiz_hesap": 0,
+            "altin_hesabi": 0,
+            "bireysel_emeklilik": 0
+        }
+    },
+    "218531": {
+        "isim": "Aslan",
+        "soyisim": "Soykan",
+        "sifre": "$2b$12$EpQDA1QnaEwnH4C4O/nm5OwYKKnwID8POxu0HN/IZWyD8EX8gOWNK",
+        "tuz": "$2b$12$EpQDA1QnaEwnH4C4O/nm5O",
+        "bakiye": {
+            "USD": 140350.87719298244,
+            "EUR": 0,
+            "vadeli_hesap": 25000.0,
+            "vadesiz_hesap": 10019700.0,
+            "altin_hesabi": 2233.3333333333335,
+            "bireysel_emeklilik": 60000.0
+        },
+        "ilk_giris": {
+            "bireysel_emeklilik": "2025-04-28 09:08:39",
+            "vadeli_hesap": "2025-04-28 09:08:48"
+        }
+    },
+    "634764": {
+        "isim": "Berk",
+        "soyisim": "Türe",
+        "sifre": "$2b$12$6oW3c8N5vWa/i7b08.phWORBicJdExbGOgAdIEXIp5b74seDXrZ8u",
+        "tuz": "$2b$12$6oW3c8N5vWa/i7b08.phWO",
+        "bakiye": {
+            "USD": 0,
+            "EUR": 0,
+            "vadeli_hesap": 0.0,
+            "vadesiz_hesap": 9000.0,
+            "altin_hesabi": 0,
+            "bireysel_emeklilik": 8700.0,
+            "ilk_giris": {
+                "vadeli_hesap": "2025-05-07 18:45:37",
+                "bireysel_emeklilik": "2025-05-07 18:45:48"
+            }
+        },
+        "ilk_giris": {
+            "vadeli_hesap": "2025-05-07 18:44:57",
+            "bireysel_emeklilik": "2025-05-07 18:45:00"
+        }
+    },
+    "858301": {
+        "isim": "Berk",
+        "soyisim": "Türe",
+        "sifre": "$2b$12$nFO4shWlHSaTRkjrRbn1BufdtFm5hIjkn1QOwyWmvMHb/pdLO9ZD6",
+        "tuz": "$2b$12$nFO4shWlHSaTRkjrRbn1Bu",
+        "bakiye": {
+            "USD": 0,
+            "EUR": 0,
+            "vadeli_hesap": 0,
+            "vadesiz_hesap": 0,
+            "altin_hesabi": 0,
+            "bireysel_emeklilik": 0
+        }
+    },
+    "345218": {
+        "isim": "Berk",
+        "soyisim": "Türe",
+        "sifre": "$2b$12$5.0yaSMpuJ6kWenurDw8ceije9IuFpZyuDuk.N4m4Y.9KXSF..sRu",
+        "tuz": "$2b$12$5.0yaSMpuJ6kWenurDw8ce",
+        "bakiye": {
+            "USD": 0,
+            "EUR": 0,
+            "vadeli_hesap": 12500000.0,
+            "vadesiz_hesap": 9990000.0,
+            "altin_hesabi": 0,
+            "bireysel_emeklilik": 0
+        },
+        "ilk_giris": {
+            "vadeli_hesap": "2025-05-07 22:11:36"
+        }
+    },
+    "827369": {
+        "isim": "Fırat",
+        "soyisim": "TUna",
+        "sifre": "$2b$12$4CWlFz6AXaWaVkuPdZhnce/eaXQtfHopj8pAxA06c9A.6W0q2hoz.",
+        "tuz": "$2b$12$4CWlFz6AXaWaVkuPdZhnce",
+        "bakiye": {
+            "USD": 0,
+            "EUR": 0,
+            "vadeli_hesap": 0,
+            "vadesiz_hesap": 0,
+            "altin_hesabi": 0,
+            "bireysel_emeklilik": 0
+        }
+    },
+    "713687": {
+        "isim": "Fırat",
+        "soyisim": "TUna",
+        "sifre": "$2b$12$WP59Jy6CuaQ19LpwH4ZpVeywjCwMJ54vWzZLo4o5AF3rWMz8Ck1c6",
+        "tuz": "$2b$12$WP59Jy6CuaQ19LpwH4ZpVe",
+        "bakiye": {
+            "USD": 0,
+            "EUR": 0,
+            "vadeli_hesap": 25000.0,
+            "vadesiz_hesap": 30000.0,
+            "altin_hesabi": 0,
+            "bireysel_emeklilik": 18700.0,
+            "ilk_giris": {
+                "bireysel_emeklilik": "2025-05-07 22:43:10"
+            }
+        },
+        "ilk_giris": {
+            "vadeli_hesap": "2025-05-07 22:15:24",
+            "bireysel_emeklilik": "2025-05-07 22:42:58"
+        }
+    },
+    "168418": {
+        "isim": "İclal",
+        "soyisim": "Bülbül",
+        "sifre": "$2b$12$Z9EcNWwTVw/.hmj8mKb9KuoJ6BqdmrK/q6.s3P45KgT73L8Z0lHn6",
+        "tuz": "$2b$12$Z9EcNWwTVw/.hmj8mKb9Ku",
+        "bakiye": {
+            "USD": 0,
+            "EUR": 0,
+            "vadeli_hesap": 37500.0,
+            "vadesiz_hesap": 19900.0,
+            "altin_hesabi": 0,
+            "bireysel_emeklilik": 0
+        },
+        "ilk_giris": {
+            "vadeli_hesap": "2025-05-07 22:16:35"
+        }
+    },
+    "425813": {
+        "isim": "FB",
+        "soyisim": "TS",
+        "sifre": "$2b$12$AV4T47os17vHxQbbTLe.S.7NoRNQulUM1SiZ6VOl89JHsy8xrALVC",
+        "tuz": "$2b$12$AV4T47os17vHxQbbTLe.S.",
+        "bakiye": {
+            "USD": 0,
+            "EUR": 0,
+            "vadeli_hesap": 0,
+            "vadesiz_hesap": 0,
+            "altin_hesabi": 0,
+            "bireysel_emeklilik": 0
+        }
+    },
+    "568896": {
+        "isim": "Berk",
+        "soyisim": "Türe",
+        "sifre": "$2b$12$mUt0JugybMoVPLcrc5XOfeVjS/StotRAzf.9M76sFm3pKATSEXz8O",
+        "tuz": "$2b$12$mUt0JugybMoVPLcrc5XOfe",
+        "bakiye": {
+            "USD": 0,
+            "EUR": 0,
+            "vadeli_hesap": 6250.0,
+            "vadesiz_hesap": 10000.0,
+            "altin_hesabi": 0,
+            "bireysel_emeklilik": 0,
+            "ilk_giris": {
+                "vadeli_hesap": "2025-05-11 12:13:16"
+            }
+        },
+        "ilk_giris": {
+            "vadeli_hesap": "2025-05-11 12:13:04"
+        }
+    },
+    "943809": {
+        "isim": "Berk",
+        "soyisim": "Türe",
+        "sifre": "$2b$12$0pT5OPAdnUs83mD1uTxU4u1LvUpncuANOWAoT.w8aaxodgMbaYuQm",
+        "tuz": "$2b$12$0pT5OPAdnUs83mD1uTxU4u",
+        "bakiye": {
+            "USD": 0,
+            "EUR": 0,
+            "vadeli_hesap": 0,
+            "vadesiz_hesap": 0,
+            "altin_hesabi": 0,
+            "bireysel_emeklilik": 0
+        }
+    }
+}
